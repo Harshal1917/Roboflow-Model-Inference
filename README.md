@@ -46,25 +46,29 @@ Below are examples of input images and their corresponding output images process
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-<div style="flex: 1; text-align: center;">
-  <strong>Gloves Input</strong><br>
-  <img src="dataset/input_images/gloves128_jpg.rf.582f0d2219d7b688afc31f0ef87f148b.jpg" alt="Gloves Input" width="300">
+  <div style="flex: 1; text-align: center;">
+    <strong>Gloves Input</strong><br>
+    <img src="dataset/input_images/gloves128_jpg.rf.582f0d2219d7b688afc31f0ef87f148b.jpg" alt="Gloves Input" width="300">
+  </div>
+
+  <div style="flex: 1; text-align: center;">
+    <strong>Masks Input</strong><br>
+    <img src="dataset/input_images/masks339_jpg.rf.66ef8d59912da373d35ea7b556537034.jpg" alt="Masks Input" width="300">
+  </div>
+
 </div>
 
-<div style="flex: 1; text-align: center;">
-  <strong>Gloves Output</strong><br>
-  <img src="dataset/output_images/gloves128_jpg.rf.582f0d2219d7b688afc31f0ef87f148b.jpg" alt="Gloves Output" width="300">
-</div>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
 
-<div style="flex: 1; text-align: center;">
-  <strong>Masks Input</strong><br>
-  <img src="dataset/input_images/masks339_jpg.rf.66ef8d59912da373d35ea7b556537034.jpg" alt="Masks Input" width="300">
-</div>
+  <div style="flex: 1; text-align: center;">
+    <strong>Gloves Output</strong><br>
+    <img src="dataset/output_images/gloves128_jpg.rf.582f0d2219d7b688afc31f0ef87f148b.jpg" alt="Gloves Output" width="300">
+  </div>
 
-<div style="flex: 1; text-align: center;">
-  <strong>Masks Output</strong><br>
-  <img src="dataset/output_images/masks339_jpg.rf.66ef8d59912da373d35ea7b556537034.jpg" alt="Masks Output" width="300">
-</div>
+  <div style="flex: 1; text-align: center;">
+    <strong>Masks Output</strong><br>
+    <img src="dataset/output_images/masks339_jpg.rf.66ef8d59912da373d35ea7b556537034.jpg" alt="Masks Output" width="300">
+  </div>
 
 </div>
 
