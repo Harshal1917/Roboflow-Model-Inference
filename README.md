@@ -38,6 +38,18 @@ python ImageInference.py
 
 Processed images and the output video will be saved in the `dataset/output_images/` directory.
 
+### Example Input and Output
+
+Here are examples of input and output images processed by the model:
+
+#### Input Images
+![Gloves Input](dataset/input_images/gloves128_jpg.rf.582f0d2219d7b688afc31f0ef87f148b.jpg)
+![Masks Input](dataset/input_images/masks339_jpg.rf.66ef8d59912da373d35ea7b556537034.jpg)
+
+#### Output Images
+![Gloves Output](dataset/output_images/gloves128_jpg.rf.582f0d2219d7b688afc31f0ef87f148b.jpg)
+![Masks Output](dataset/output_images/masks339_jpg.rf.66ef8d59912da373d35ea7b556537034.jpg)
+
 ## Acknowledgments
 
 The dataset used in this project is provided by [GKHANG](https://universe.roboflow.com/gkhang/classification-waste) on Roboflow Universe. If you use this dataset in a research paper, please cite it using the following BibTeX:
