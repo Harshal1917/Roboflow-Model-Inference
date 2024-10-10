@@ -42,7 +42,7 @@ Processed images and the output video will be saved in the `dataset/output_image
 
 Below are examples of input images and their corresponding output images processed by the model. The output images include bounding boxes and labels indicating the detected class and confidence percentage.
 
-#### Input and Output Images
+#### Input Images
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
@@ -58,6 +58,7 @@ Below are examples of input images and their corresponding output images process
 
 </div>
 
+#### Output Images
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
 
   <div style="flex: 1; text-align: center;">
