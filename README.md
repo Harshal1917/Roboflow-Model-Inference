@@ -47,6 +47,7 @@ The dataset used in this project is sourced from the [Classification Waste Datas
    - Visit the [Classification Waste Dataset](https://universe.roboflow.com/gkhang/classification-waste) page on Roboflow Universe.
    - Navigate to the model section and generate your API key.
    - Update the `ImageInference.py` script with your API key:
+   
      ```python
      api_key="YOUR_API_KEY"
      ```
