@@ -43,6 +43,14 @@ The dataset used in this project is sourced from the [Classification Waste Datas
 
 3. Place your input images in the `dataset/input_images/` directory.
 
+4. **Obtain Your API Key**:
+   - Visit the [Classification Waste Dataset](https://universe.roboflow.com/gkhang/classification-waste) page on Roboflow Universe.
+   - Navigate to the model section and generate your API key.
+   - Update the `ImageInference.py` script with your API key:
+     ```python
+     api_key="YOUR_API_KEY"
+     ```
+
 ## Usage
 
 Run the script to process images and create a video:

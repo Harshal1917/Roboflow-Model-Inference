@@ -86,7 +86,7 @@ class ImageInferenceProcessor:
 if __name__ == "__main__":
     processor = ImageInferenceProcessor(
         api_url="https://classify.roboflow.com",
-        api_key="rZ0tojtD0S0jvvTruB5y",
+        api_key="YOUR_API_KEY",  # Ensure this is your actual API key
         input_dir=r"E:\roboflow model\input_images",
         output_dir=r"E:\roboflow model\output_images",
         model_id="classification-waste/11"
