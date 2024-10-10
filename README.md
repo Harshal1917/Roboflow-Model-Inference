@@ -40,15 +40,21 @@ Processed images and the output video will be saved in the `dataset/output_image
 
 ### Example Input and Output
 
-Here are examples of input and output images processed by the model:
+Below are examples of input images and their corresponding output images processed by the model. The output images include bounding boxes and labels indicating the detected class and confidence percentage.
 
 #### Input Images
-![Gloves Input](dataset/input_images/gloves128_jpg.rf.582f0d2219d7b688afc31f0ef87f148b.jpg)
-![Masks Input](dataset/input_images/masks339_jpg.rf.66ef8d59912da373d35ea7b556537034.jpg)
+- **Gloves Input**
+  ![Gloves Input](dataset/input_images/gloves128_jpg.rf.582f0d2219d7b688afc31f0ef87f148b.jpg)
+
+- **Masks Input**
+  ![Masks Input](dataset/input_images/masks339_jpg.rf.66ef8d59912da373d35ea7b556537034.jpg)
 
 #### Output Images
-![Gloves Output](dataset/output_images/gloves128_jpg.rf.582f0d2219d7b688afc31f0ef87f148b.jpg)
-![Masks Output](dataset/output_images/masks339_jpg.rf.66ef8d59912da373d35ea7b556537034.jpg)
+- **Gloves Output**
+  ![Gloves Output](dataset/output_images/gloves128_jpg.rf.582f0d2219d7b688afc31f0ef87f148b.jpg)
+
+- **Masks Output**
+  ![Masks Output](dataset/output_images/masks339_jpg.rf.66ef8d59912da373d35ea7b556537034.jpg)
 
 ## Acknowledgments
 
