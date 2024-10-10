@@ -6,7 +6,7 @@ This project demonstrates image classification using a Roboflow model. It proces
 
 - `dataset/input_images/`: Directory for input images.
 - `dataset/output_images/`: Directory for processed images and video.
-- `scripts/roboflow_model_inference.py`: Main script for processing images.
+- `roboflow_model_inference.py`: Main script for processing images.
 
 ## Dataset
 
@@ -31,7 +31,7 @@ The dataset used in this project is sourced from the [Classification Waste Datas
 
 Run the script to process images and create a video:
 ```bash
-python scripts/ImageInference.py
+python ImageInference.py
 ```
 
 ## Results
