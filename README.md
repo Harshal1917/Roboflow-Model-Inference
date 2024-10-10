@@ -1,6 +1,22 @@
 # Roboflow Model Inference
 
-This project demonstrates image classification using a Roboflow model. It processes images, draws bounding boxes, and creates a video of the results.
+This project showcases an image classification pipeline using a pre-trained model from Roboflow. The primary objective is to automate the process of identifying and classifying objects within images, specifically focusing on waste classification. The project leverages machine learning to process input images, draw bounding boxes around detected objects, and annotate them with class labels and confidence scores. Additionally, it compiles the processed images into a video, providing a visual summary of the classification results.
+
+## Key Features
+
+- **Automated Image Processing**: Efficiently processes batches of images to identify and classify objects.
+- **Bounding Box Visualization**: Draws bounding boxes around detected objects, enhancing visual understanding of the model's predictions.
+- **Confidence Annotation**: Displays class labels and confidence percentages, offering insights into the model's certainty.
+- **Video Compilation**: Converts processed images into a video format, facilitating easy review and presentation of results.
+- **Customizable and Extensible**: Designed to be adaptable for various classification tasks beyond waste management, with potential applications in fields like environmental monitoring, inventory management, and more.
+
+## Potential Applications
+
+- **Environmental Monitoring**: Classify and track waste types in environmental studies or waste management facilities.
+- **Inventory Management**: Automate the classification of items in warehouses or retail settings.
+- **Research and Development**: Serve as a foundation for developing more advanced image classification systems or integrating with other AI-driven solutions.
+
+This project serves as a practical example of how machine learning models can be applied to real-world problems, providing a foundation for further exploration and development in the field of computer vision.
 
 ## Project Structure
 
