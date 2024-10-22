@@ -22,7 +22,7 @@ This project serves as a practical example of how machine learning models can be
 
 - `dataset/input_images/`: Directory for input images.
 - `dataset/output_images/`: Directory for processed images and video.
-- `roboflow_model_inference.py`: Main script for processing images.
+- `ImageInference.py`: Main script for processing images.
 
 ## Dataset
 
